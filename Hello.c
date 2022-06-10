@@ -6,5 +6,7 @@ int main(){
     int i = 5;
     printf("\n%d", i);
 
+    //git confusing af
+
     return 0;
 }
